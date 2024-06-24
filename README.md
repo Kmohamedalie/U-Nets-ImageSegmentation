@@ -19,3 +19,10 @@ Instructor: [Parth Dhameliya](https://www.coursera.org/instructor/~42281109)
 
 
 
+
+https://github.com/Kmohamedalie/U-Nets_ImageSegmentation/assets/63104472/5c3fa29f-a3c6-4c07-a419-c4989b9c55c0
+
+
+
+
+
