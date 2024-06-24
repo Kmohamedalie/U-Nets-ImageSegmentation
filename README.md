@@ -11,6 +11,12 @@ Instructor: [Parth Dhameliya](https://www.coursera.org/instructor/~42281109)
 <br>
 <br>
 
+**[Applications:](https://deeplobe.ai/image-segmentation-the-most-interesting-applications/)**  Medical Imaging, Autonomous Vehicles, Agriculture(weed detection).
+
+
+<br>
+<br>
+
 
 
 
