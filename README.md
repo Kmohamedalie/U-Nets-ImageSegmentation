@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch : Image Segmentation
+# Deep Learning with PyTorch : Image Segmentation 🖼️
 
 Instructor: [Parth Dhameliya](https://www.coursera.org/instructor/~42281109)
 
